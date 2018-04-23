@@ -3,7 +3,7 @@
 
   // Vide - Video Background Settings
   $('body').vide({
-    webm: "mp4/linhlinh.mp4",
+    mp4: "mp4/linhlinh.mp4",
     poster: "img/bg-mobile-fallback.jpg"
   }, {
     posterType: 'jpg'
