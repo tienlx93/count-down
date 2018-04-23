@@ -3,7 +3,7 @@
 
   // Vide - Video Background Settings
   $('body').vide({
-    webm: "https://giant.gfycat.com/InferiorIndolentKitfox.webm",
+    webm: "mp4/linhlinh.mp4",
     poster: "img/bg-mobile-fallback.jpg"
   }, {
     posterType: 'jpg'
