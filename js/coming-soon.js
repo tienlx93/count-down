@@ -4,7 +4,7 @@
   // Vide - Video Background Settings
   $('body').vide({
     //mp4: "mp4/linhlinh.mp4",
-    poster: "https://travel.com.vn/images/destination/Large/dg_160519_du-lich-da-nang.jpg"
+    poster: "https://r-cf.bstatic.com/images/hotel/max1024x768/202/202967428.jpg"
   }, {
     posterType: 'jpg'
   });
